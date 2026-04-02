@@ -3,10 +3,10 @@
 # 1. Go to your GitHub profile repo: github.com/premnath3536/premnath3536
 # 2. Create folder: .github/workflows/
 # 3. Create file: metrics.yml
-# 4. Paste this content
+# 4. Paste this content (replace old one if exists)
 # 5. Go to repo Settings > Actions > General > Workflow permissions
 #    Enable "Read and write permissions"
-# 6. Run the workflow manually first time (Actions tab > click workflow > Run workflow)
+# 6. Run the workflow manually (Actions tab > click workflow > Run workflow)
 # ===============================================
 
 name: Generate GitHub Metrics
@@ -34,9 +34,9 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
 
-          # Isometric Calendar (3D contribution grid)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Flat Calendar (like LeetCode heatmap)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
 
           # Output settings
           filename: github-contribution-grid.svg
