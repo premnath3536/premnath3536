@@ -102,22 +102,7 @@ const prem = {
 
 <br/>
 
-<!-- More Projects -->
-<details>
-<summary align="center"><h3>🚀 More Projects</h3></summary>
-<br/>
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎵 **AI Song Recommender** | Emotion-based song recommendations using AI | Python, ML, APIs |
-| 💬 **Real-time Chat System** | Media sharing & instant messaging | Node.js, Socket.io |
-| 🎮 **Interactive Games** | In-chat gaming experiences | React, WebSockets |
-
-</div>
-
-</details>
 
 <br/>
 
@@ -134,7 +119,7 @@ const prem = {
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp&theme=dark" />
 </p>
 
 ### 🎨 Frontend
@@ -159,14 +144,7 @@ const prem = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Contribution Heatmap -->
-<h2 align="center">GitHub Contributions</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/premnath3536/premnath3536/main/github-contribution-grid.svg" alt="GitHub Contributions"/>
-</div>
-
-<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
